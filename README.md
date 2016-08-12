@@ -7,6 +7,8 @@ Tools used: Pencil, inVision, Photoshop, JQuery mobile, Git, Heroku
 
 The pdf files are the work for each week of this capstone project. They contain all the design process, from research to implementation of the prototype.
 
+The zip file contains the JQeuryMobile, HTML and CSS code for the app.
+
 This medium post explains all the process: 
 
 https://medium.com/@ricardo.s.maduro/creating-an-interactive-prototype-the-design-process-cf069b2ca2b0#.q5jrucoma
